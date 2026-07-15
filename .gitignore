@@ -1,0 +1,14 @@
+# Python and Blender-generated files
+__pycache__/
+*.py[cod]
+
+# CMake and Visual Studio-generated files
+build/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.suo
+
+# Local archive used during repository cleanup
+temporary/

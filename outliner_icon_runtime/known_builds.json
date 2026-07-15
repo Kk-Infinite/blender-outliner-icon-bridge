@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "builds": [
+    {
+      "name": "Blender 4.1.1 Windows x64",
+      "blender_exe_sha256": "a888e1bc0f435f4c48146071aa80299744d0199aeeceb92b482ed37ceb855498",
+      "outliner_icon_rva": "0x1357200"
+    },
+    {
+      "name": "Blender 4.2.9 Windows x64",
+      "blender_exe_sha256": "0d4ad9f1442eea7ea2fd41ea3dabe7602f421968f3604f9dc72a35c932b0eeb2",
+      "outliner_icon_rva": "0x14C2370"
+    },
+    {
+      "name": "Blender 4.3.2 Windows x64",
+      "blender_exe_sha256": "9cc6e9161598d8d94454c2675b3fd32d0403f3469c240235f254b635fc62dde0",
+      "outliner_icon_rva": "0x1852C80"
+    },
+    {
+      "name": "Blender 4.4.3 Windows x64",
+      "blender_exe_sha256": "77e78a1c3e9770976eca8f51d6b085dd3d322a4724a46f11874f9971fbe34df5",
+      "outliner_icon_rva": "0x1CBEEE0"
+    },
+    {
+      "name": "Blender 4.5.3 Windows x64",
+      "blender_exe_sha256": "bd9d0d31051b9c54c7651ae65d97bb3cd443624ea8e0691497df591b34805510",
+      "outliner_icon_rva": "0x1ECBA40"
+    },
+    {
+      "name": "Blender 5.0.1 Windows x64",
+      "blender_exe_sha256": "310aa060203252a10269ff86310d2660fd91d8d6af6dbbe20cfe1752b3349565",
+      "outliner_icon_rva": "0x1FCA290"
+    },
+    {
+      "name": "Blender 5.1.0 adfe2921d5f3 Windows x64",
+      "blender_exe_sha256": "bb7ada2c2204a897a2ca17bea6b61f17c7c0d40cb4e604f61b0f8500d4908918",
+      "outliner_icon_rva": "0x2E19B30"
+    },
+    {
+      "name": "Blender 5.1.2 Windows x64",
+      "blender_exe_sha256": "a7d09b04df8f78d432bc45d32c08f25387a78c76d12d2a6f5de07d8e1066e8f8",
+      "outliner_icon_rva": "0x2E2E680"
+    },
+    {
+      "name": "Blender 5.2.0 Windows x64",
+      "blender_exe_sha256": "0060916d6921eb4d46c57254609d805a2ea711917399051391a52ba14beb6327",
+      "outliner_icon_rva": "0x296B1E0"
+    }
+  ]
+}
