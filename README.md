@@ -1,5 +1,3 @@
-https://packaged-media.redd.it/pndjhwugdgdh1/pb/m2-res_480p.mp4?m=DASHPlaylist.mpd&var=sgpssan&v=1&e=1784163600&s=2d4dd7d5c1a4cbea9fa492c8c34b700832f41924
-
 # Blender 大纲视图图标替换 / Outliner Icon Hook
 
 ## 中文
